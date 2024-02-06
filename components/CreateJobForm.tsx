@@ -26,8 +26,6 @@ function CreateJobForm() {
     console.log(values);
   }
 
-  console.log(form);
-
   return (
     <Form {...form}>
       <form
