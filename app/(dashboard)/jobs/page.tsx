@@ -18,11 +18,6 @@ const JobsPage = async () => {
     queryFn: () => getAllJobsAction({}),
   });
 
-  // const { data, isFetching, error } = useQuery({
-  //   queryKey: ["jobs"],
-  //   queryFn: () => {},
-  // });
-
   return (
     <HydrationBoundary state={dehydrate(queryClient)}>
       <SearchForm />
