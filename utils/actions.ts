@@ -49,6 +49,7 @@ export const getAllJobsAction = async ({
   totalPages: number;
 }> => {
   const userId = authenticateAndRedirect();
+  // await new Promise((resolve) => setTimeout(resolve, 3000)); // To test loading job filter and job cards
 
   try {
     const whereClause: Prisma.JobWhereInput = {
@@ -145,6 +146,7 @@ export const getStatsAction = async (): Promise<{
   interview: number;
   declined: number;
 }> => {
+  // await new Promise((resolve) => setTimeout(resolve, 3000)); // To test loading stats cards
   try {
     const stats = await prisma.job.groupBy({
       where: {
