@@ -2,7 +2,6 @@ import {
   dehydrate,
   HydrationBoundary,
   QueryClient,
-  useQuery,
 } from "@tanstack/react-query";
 
 import SearchForm from "@/components/SearchForm";
