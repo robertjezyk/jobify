@@ -69,7 +69,7 @@ const EditJobForm = ({ jobId }: { jobId: string }) => {
         mode: (data?.mode as JobMode) || JobMode.FullTime,
       });
     }
-  }, [data]);
+  }, [data, form]);
 
   const onSubmit = (values: CreateAndEditJobType) => {
     mutate(values);
