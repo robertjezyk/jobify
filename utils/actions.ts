@@ -22,7 +22,7 @@ export const createJobAction = async (
   values: CreateAndEditJobType
 ): Promise<JobType | null> => {
   try {
-    await new Promise((resolve) => setTimeout(resolve, 3000));
+    // await new Promise((resolve) => setTimeout(resolve, 3000));
     createAndEditJobSchema.parse(values);
     const job: JobType = await prisma.job.create({
       data: {

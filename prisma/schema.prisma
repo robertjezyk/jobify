@@ -20,4 +20,5 @@ model Job {
   location  String
   status    String
   mode      String
+  notes     String @db.Text @default("")
 }

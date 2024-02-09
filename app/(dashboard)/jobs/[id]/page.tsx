@@ -12,7 +12,7 @@ const SingleJobPage = async ({ params }: { params: { id: string } }) => {
   const id = params.id;
 
   await queryClient.prefetchQuery({
-    queryKey: ["jobs", id],
+    queryKey: ["job", id],
     queryFn: () => getSingleJobAction(id),
   });
 

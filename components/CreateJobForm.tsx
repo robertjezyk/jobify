@@ -10,7 +10,11 @@ import { Button } from "@/components/ui/button";
 import { Form } from "@/components/ui/form";
 import { useToast } from "@/components/ui/use-toast";
 
-import CustomFormSelect, { CustomFormField } from "./FormComponents";
+import {
+  CustomFormSelect,
+  CustomFormField,
+  CustomFormTextArea,
+} from "./FormComponents";
 
 import type { CreateAndEditJobType } from "@/utils/types";
 import { JobStatus, JobMode, createAndEditJobSchema } from "@/utils/types";
@@ -52,6 +56,7 @@ function CreateJobForm() {
       position: "",
       company: "",
       location: "",
+      notes: "",
       status: JobStatus.Pending,
       mode: JobMode.FullTime,
     },
@@ -89,6 +94,9 @@ function CreateJobForm() {
             items={Object.values(JobMode)}
             labelText="job mode"
           />
+          <div className="md:col-span-2 md:grid md:gap-4 md:grid-cols-2 lg:grid-cols-1">
+            <CustomFormTextArea name="notes" control={form.control} />
+          </div>
           <Button
             type="submit"
             className="self-end capitalize"

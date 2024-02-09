@@ -8,6 +8,7 @@ export type JobType = {
   position: string;
   company: string;
   location: string;
+  notes: string;
   status: string;
   mode: string;
 };
@@ -34,6 +35,7 @@ export const createAndEditJobSchema = z.object({
   location: z.string().min(2, {
     message: "location must be 2 characters",
   }),
+  notes: z.string(),
   status: z.nativeEnum(JobStatus),
   mode: z.nativeEnum(JobMode),
 });

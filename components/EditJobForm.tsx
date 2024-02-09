@@ -17,7 +17,11 @@ import { Button } from "@/components/ui/button";
 import { Form } from "@/components/ui/form";
 import { useToast } from "@/components/ui/use-toast";
 
-import { CustomFormField, CustomFormSelect } from "./FormComponents";
+import {
+  CustomFormField,
+  CustomFormSelect,
+  CustomFormTextArea,
+} from "./FormComponents";
 
 const EditJobForm = ({ jobId }: { jobId: string }) => {
   const queryClient = useQueryClient();
@@ -53,18 +57,19 @@ const EditJobForm = ({ jobId }: { jobId: string }) => {
       position: data?.position || "",
       company: data?.company || "",
       location: data?.location || "",
+      notes: data?.notes || "",
       status: (data?.status as JobStatus) || JobStatus.Pending,
       mode: (data?.mode as JobMode) || JobMode.FullTime,
     },
   });
 
-  // TODO: bug, where on page reload it doesn't update status and mode with job data
   useEffect(() => {
     if (data) {
       form.reset({
         position: data?.position || "",
         company: data?.company || "",
         location: data?.location || "",
+        notes: data?.notes || "",
         status: (data?.status as JobStatus) || JobStatus.Pending,
         mode: (data?.mode as JobMode) || JobMode.FullTime,
       });
@@ -103,6 +108,9 @@ const EditJobForm = ({ jobId }: { jobId: string }) => {
             items={Object.values(JobMode)}
             labelText="job mode"
           />
+          <div className="md:col-span-2 md:grid md:gap-4 md:grid-cols-2 lg:grid-cols-1">
+            <CustomFormTextArea name="notes" control={form.control} />
+          </div>
           <Button
             type="submit"
             className="self-end capitalize"
