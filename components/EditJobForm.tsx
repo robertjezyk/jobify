@@ -28,7 +28,7 @@ const EditJobForm = ({ jobId }: { jobId: string }) => {
   const { toast } = useToast();
   const router = useRouter();
 
-  const { data, isFetching } = useQuery({
+  const { data } = useQuery({
     queryKey: ["job", jobId],
     queryFn: () => getSingleJobAction(jobId),
   });
@@ -59,7 +59,7 @@ const EditJobForm = ({ jobId }: { jobId: string }) => {
       location: data?.location || "",
       notes: data?.notes || "",
       status: (data?.status as JobStatus) || JobStatus.Pending,
-      mode: (data?.mode as JobMode) || JobMode.FullTime,
+      mode: (data?.mode as JobMode) || JobMode.Permanent,
     },
   });
 
@@ -71,7 +71,7 @@ const EditJobForm = ({ jobId }: { jobId: string }) => {
         location: data?.location || "",
         notes: data?.notes || "",
         status: (data?.status as JobStatus) || JobStatus.Pending,
-        mode: (data?.mode as JobMode) || JobMode.FullTime,
+        mode: (data?.mode as JobMode) || JobMode.Permanent,
       });
     }
   }, [data, form]);

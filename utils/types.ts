@@ -17,12 +17,12 @@ export enum JobStatus {
   Pending = "pending",
   Interview = "interview",
   Declined = "declined",
+  Discussing = "discussing",
 }
 
 export enum JobMode {
-  FullTime = "full-time",
-  PartTime = "part-time",
-  Internship = "internship",
+  Permanent = "permanent",
+  Contract = "contract",
 }
 
 export const createAndEditJobSchema = z.object({

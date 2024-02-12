@@ -58,7 +58,7 @@ function CreateJobForm() {
       location: "",
       notes: "",
       status: JobStatus.Pending,
-      mode: JobMode.FullTime,
+      mode: JobMode.Permanent,
     },
   });
 

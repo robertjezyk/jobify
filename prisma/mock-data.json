@@ -4,7 +4,7 @@
     "company": "Meembee",
     "location": "Wangping",
     "status": "declined",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-03-23T10:51:23Z",
     "notes": "Other fracture of fourth thoracic vertebra, sequela"
   },
@@ -13,7 +13,7 @@
     "company": "Dynava",
     "location": "Aqtaū",
     "status": "declined",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2024-01-12T01:38:53Z",
     "notes": "Adverse effect of therapeutic gases"
   },
@@ -22,7 +22,7 @@
     "company": "Mudo",
     "location": "Delok",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2024-01-05T09:12:23Z",
     "notes": "Nondisplaced comminuted fracture of unsp patella, init"
   },
@@ -31,7 +31,7 @@
     "company": "Buzzbean",
     "location": "Cork",
     "status": "pending",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2024-02-07T06:39:47Z",
     "notes": "Disp fx of neck of scapula, unspecified shoulder, sequela"
   },
@@ -40,7 +40,7 @@
     "company": "Yakijo",
     "location": "Bonavista",
     "status": "pending",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-07-19T12:04:43Z",
     "notes": "Toxic effect of soaps"
   },
@@ -49,7 +49,7 @@
     "company": "Quinu",
     "location": "Stockholm",
     "status": "declined",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-07-02T00:25:07Z",
     "notes": "Adverse effect of smallpox vaccines"
   },
@@ -58,7 +58,7 @@
     "company": "Bubblemix",
     "location": "Nezhinka",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-08-13T15:07:20Z",
     "notes": "Cloacal extrophy of urinary bladder"
   },
@@ -67,7 +67,7 @@
     "company": "Bubblemix",
     "location": "Cachimayo",
     "status": "interview",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-12-31T05:24:46Z",
     "notes": "Optic nerve hypoplasia, left eye"
   },
@@ -76,7 +76,7 @@
     "company": "Brainsphere",
     "location": "Tanlad",
     "status": "pending",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-02-14T12:29:51Z",
     "notes": "Traum rupt of palmar ligmt of r lit fngr at MCP/IP jt, init"
   },
@@ -85,7 +85,7 @@
     "company": "Bubbletube",
     "location": "Vyshhorod",
     "status": "declined",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-02-11T02:17:01Z",
     "notes": "Ankylosis, left knee"
   },
@@ -94,7 +94,7 @@
     "company": "Mymm",
     "location": "Dongting",
     "status": "interview",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-02-23T05:03:39Z",
     "notes": "Miscellaneous ophthalmic devices assoc w incdt, NEC"
   },
@@ -103,7 +103,7 @@
     "company": "Thoughtstorm",
     "location": "Arrifes",
     "status": "declined",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-03-06T18:44:09Z",
     "notes": "Burn of third degree of single finger (nail) except thumb"
   },
@@ -112,7 +112,7 @@
     "company": "Jaxnation",
     "location": "Shiban",
     "status": "declined",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-07-07T15:18:43Z",
     "notes": "Oth fracture of left pubis, init encntr for closed fracture"
   },
@@ -121,7 +121,7 @@
     "company": "Bubblemix",
     "location": "Argithéa",
     "status": "pending",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-06-06T05:36:51Z",
     "notes": "Desert as the place of occurrence of the external cause"
   },
@@ -130,7 +130,7 @@
     "company": "Brainlounge",
     "location": "Rogachëvo",
     "status": "declined",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-06-08T11:27:13Z",
     "notes": "Oth physeal fracture of upper end of radius, unsp arm, init"
   },
@@ -139,7 +139,7 @@
     "company": "Ainyx",
     "location": "Nalinggou",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-09-03T22:11:43Z",
     "notes": "Disp fx of middle third of navic bone of unsp wrist, init"
   },
@@ -148,7 +148,7 @@
     "company": "Mynte",
     "location": "Anastácio",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-06-27T00:17:08Z",
     "notes": "Toxic effect of soaps, intentional self-harm, subs encntr"
   },
@@ -157,7 +157,7 @@
     "company": "Youspan",
     "location": "Pardelhas",
     "status": "declined",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-10-28T23:26:39Z",
     "notes": "Toxic effect of gases, fumes and vapors, self-harm, subs"
   },
@@ -166,7 +166,7 @@
     "company": "Zooveo",
     "location": "Sindangsari",
     "status": "declined",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-07-29T23:26:46Z",
     "notes": "Primary atelectasis of newborn"
   },
@@ -175,7 +175,7 @@
     "company": "Blogtags",
     "location": "Birigui",
     "status": "pending",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-10-16T13:56:46Z",
     "notes": "Toxic effect of other pesticides, accidental (unintentional)"
   },
@@ -184,7 +184,7 @@
     "company": "Divape",
     "location": "Igede-Ekiti",
     "status": "interview",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2024-02-03T07:59:43Z",
     "notes": "Laceration w/o fb of unsp lesser toe(s) w damage to nail"
   },
@@ -193,7 +193,7 @@
     "company": "Flipbug",
     "location": "Đồng Mỏ",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-06-08T03:30:54Z",
     "notes": "Disp fx of r radial styloid pro, 7thD"
   },
@@ -202,7 +202,7 @@
     "company": "Photofeed",
     "location": "Daohe",
     "status": "interview",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-09-14T12:10:13Z",
     "notes": "Burn of first degree of neck, sequela"
   },
@@ -211,7 +211,7 @@
     "company": "Flipstorm",
     "location": "‘Izrā",
     "status": "declined",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-11-08T12:50:46Z",
     "notes": "Other Hodgkin lymphoma, extranodal and solid organ sites"
   },
@@ -220,7 +220,7 @@
     "company": "Aibox",
     "location": "Shipu",
     "status": "pending",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-09-04T04:58:31Z",
     "notes": "Osteochondritis dissecans, unspecified hip"
   },
@@ -229,7 +229,7 @@
     "company": "Feednation",
     "location": "São Mateus",
     "status": "declined",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-04-16T08:49:50Z",
     "notes": "Attic perforation of tympanic membrane"
   },
@@ -238,7 +238,7 @@
     "company": "Plajo",
     "location": "Jieshui",
     "status": "interview",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2024-01-05T06:14:34Z",
     "notes": "Unsp soft tissue disorder related to use/pressure of up arm"
   },
@@ -247,7 +247,7 @@
     "company": "Aimbo",
     "location": "Luleå",
     "status": "pending",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-08-08T13:47:48Z",
     "notes": "Thoracoabdominal aortic aneurysm, ruptured"
   },
@@ -256,7 +256,7 @@
     "company": "Twimm",
     "location": "Xiangqiao",
     "status": "declined",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-10-22T10:21:04Z",
     "notes": "Intentional self-harm by other hot fluids, initial encounter"
   },
@@ -265,7 +265,7 @@
     "company": "Twiyo",
     "location": "Soloma",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-11-03T21:36:59Z",
     "notes": "Motorcycle rider (driver) injured in unsp nontraf, init"
   },
@@ -274,7 +274,7 @@
     "company": "Skibox",
     "location": "Wuying",
     "status": "pending",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-02-18T09:49:15Z",
     "notes": "Other specified sepsis"
   },
@@ -283,7 +283,7 @@
     "company": "Feedfish",
     "location": "Juan de Acosta",
     "status": "pending",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-10-05T02:06:46Z",
     "notes": "Other upbringing away from parents"
   },
@@ -292,7 +292,7 @@
     "company": "Skilith",
     "location": "Fushun",
     "status": "declined",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-07-22T05:21:03Z",
     "notes": "Inj great saphenous at hip and thi lev, unsp leg, sequela"
   },
@@ -301,7 +301,7 @@
     "company": "Dazzlesphere",
     "location": "Taipingying",
     "status": "pending",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-08-09T12:59:05Z",
     "notes": "Hit by object due to controlled fire, not in bldg"
   },
@@ -310,7 +310,7 @@
     "company": "Tagchat",
     "location": "Lazarat",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2024-01-29T14:40:20Z",
     "notes": "Toxic effect of venom of other spider, assault, subs encntr"
   },
@@ -319,7 +319,7 @@
     "company": "Flashdog",
     "location": "Ấp Tân Ngãi",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-05-31T06:35:33Z",
     "notes": "Oth fx first metacarpal bone, right hand, init for opn fx"
   },
@@ -328,7 +328,7 @@
     "company": "Tagcat",
     "location": "Đà Bắc",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-05-12T23:03:17Z",
     "notes": "Pressure ulcer of head"
   },
@@ -337,7 +337,7 @@
     "company": "Tavu",
     "location": "Angasmarca",
     "status": "pending",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-06-07T12:10:52Z",
     "notes": "Unspecified fracture of lower end of left ulna, sequela"
   },
@@ -346,7 +346,7 @@
     "company": "Twitterwire",
     "location": "Ehen Hudag",
     "status": "declined",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-12-12T00:19:18Z",
     "notes": "Disp fx of greater trochanter of r femr, 7thJ"
   },
@@ -355,7 +355,7 @@
     "company": "Tagtune",
     "location": "Reutov",
     "status": "declined",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-03-31T19:34:50Z",
     "notes": "Maternal care for anti-D antibodies, second tri, fetus 2"
   },
@@ -364,7 +364,7 @@
     "company": "Cogidoo",
     "location": "Castro",
     "status": "declined",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2024-02-02T00:16:09Z",
     "notes": "Sprain of joints and ligaments of unsp parts of head, init"
   },
@@ -373,7 +373,7 @@
     "company": "Ntags",
     "location": "Youyun",
     "status": "declined",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-07-15T20:47:00Z",
     "notes": "Paradoxical insomnia"
   },
@@ -382,7 +382,7 @@
     "company": "Zoomzone",
     "location": "Oslo",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-02-23T09:11:38Z",
     "notes": "Rheumatoid vasculitis w rheumatoid arthritis of unsp elbow"
   },
@@ -391,7 +391,7 @@
     "company": "Flipbug",
     "location": "Kenyau",
     "status": "interview",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-12-16T08:58:42Z",
     "notes": "Cocaine use, unsp with cocaine-induced anxiety disorder"
   },
@@ -400,7 +400,7 @@
     "company": "Quatz",
     "location": "Ballisodare",
     "status": "declined",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2024-01-09T22:14:06Z",
     "notes": "Laceration of posterior tibial artery, right leg, init"
   },
@@ -409,7 +409,7 @@
     "company": "Skyble",
     "location": "Taradale",
     "status": "declined",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-07-09T16:04:50Z",
     "notes": "Subluxation of proximal interphaln joint of left thumb, init"
   },
@@ -418,7 +418,7 @@
     "company": "Katz",
     "location": "Santa Eulalia",
     "status": "declined",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-10-13T01:14:38Z",
     "notes": "Oth fracture of left patella, subs for clos fx w malunion"
   },
@@ -427,7 +427,7 @@
     "company": "Jamia",
     "location": "Pursat",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-09-15T06:56:02Z",
     "notes": "Enteropathic arthropathies, shoulder"
   },
@@ -436,7 +436,7 @@
     "company": "Kanoodle",
     "location": "Poste du Lac",
     "status": "pending",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-03-03T20:50:24Z",
     "notes": "Terrorism w chemical weapons, terrorist injured, sequela"
   },
@@ -445,7 +445,7 @@
     "company": "Brainbox",
     "location": "Khantaghy",
     "status": "declined",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-07-24T05:19:56Z",
     "notes": "Minor laceration of left carotid artery, sequela"
   },
@@ -454,7 +454,7 @@
     "company": "Zoomdog",
     "location": "Danderyd",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-05-29T23:30:08Z",
     "notes": "Other fracture of unspecified foot, 7thP"
   },
@@ -463,7 +463,7 @@
     "company": "Yakidoo",
     "location": "Fengsheng",
     "status": "interview",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-04-06T11:34:58Z",
     "notes": "Oth fx shaft of r tibia, 7thF"
   },
@@ -472,7 +472,7 @@
     "company": "Photobean",
     "location": "Linquan",
     "status": "interview",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-02-18T14:02:15Z",
     "notes": "Nondisp fx of neck of unsp MC bone, subs for fx w nonunion"
   },
@@ -481,7 +481,7 @@
     "company": "Trunyx",
     "location": "Město Albrechtice",
     "status": "interview",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-12-02T12:49:06Z",
     "notes": "Type I occipital condyle fracture, unspecified side"
   },
@@ -490,7 +490,7 @@
     "company": "Meevee",
     "location": "Lees Summit",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-07-14T20:32:39Z",
     "notes": "Adverse effect of other antidepressants"
   },
@@ -499,7 +499,7 @@
     "company": "Skiba",
     "location": "Bunobogu",
     "status": "declined",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-09-26T01:59:14Z",
     "notes": "Other calcification of muscle, unspecified lower leg"
   },
@@ -508,7 +508,7 @@
     "company": "Kayveo",
     "location": "Veyno",
     "status": "declined",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-09-06T21:34:29Z",
     "notes": "War op w chem weapons and oth unconvtl warfare, civ, subs"
   },
@@ -517,7 +517,7 @@
     "company": "Tazz",
     "location": "Baiima",
     "status": "declined",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-12-21T03:21:10Z",
     "notes": "Toxic effect of contact w oth venomous plant, accidental"
   },
@@ -526,7 +526,7 @@
     "company": "Oozz",
     "location": "Kameoka",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-04-25T02:16:04Z",
     "notes": "Brown-Sequard syndrome at C4, subs"
   },
@@ -535,7 +535,7 @@
     "company": "Skiptube",
     "location": "Karangnongko",
     "status": "declined",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-04-18T13:01:05Z",
     "notes": "Nondisplaced dome fracture of left talus"
   },
@@ -544,7 +544,7 @@
     "company": "Oodoo",
     "location": "Álli Meriá",
     "status": "declined",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-09-06T15:51:49Z",
     "notes": "Poisoning by cannabis (derivatives), undetermined, sequela"
   },
@@ -553,7 +553,7 @@
     "company": "Skimia",
     "location": "Longsha",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-06-03T12:41:03Z",
     "notes": "Unspecified acquired deformity of lower leg"
   },
@@ -562,7 +562,7 @@
     "company": "Gigabox",
     "location": "Fengjiang",
     "status": "declined",
-    "mode": "internship",
+    "mode": "permanent",
     "createdAt": "2023-04-19T17:32:03Z",
     "notes": "Traumatic amputation at hip joint"
   },
@@ -571,7 +571,7 @@
     "company": "Podcat",
     "location": "Margaharja",
     "status": "interview",
-    "mode": "internship",
+    "mode": "contract",
     "createdAt": "2023-08-18T10:12:03Z",
     "notes": "Unsp open wound of unsp finger w damage to nail, subs encntr"
   },
@@ -580,7 +580,7 @@
     "company": "Buzzster",
     "location": "Little Baguio",
     "status": "interview",
-    "mode": "internship",
+    "mode": "contract",
     "createdAt": "2023-05-18T06:21:44Z",
     "notes": "Other abnormal auditory perceptions, bilateral"
   },
@@ -589,7 +589,7 @@
     "company": "Yodoo",
     "location": "Turba",
     "status": "pending",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-02-12T00:42:41Z",
     "notes": "Unspecified adult maltreatment, suspected, sequela"
   },
@@ -598,7 +598,7 @@
     "company": "Digitube",
     "location": "Semanding Barat",
     "status": "pending",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-12-09T13:45:47Z",
     "notes": "Occup of bus injured in collision w 2/3-whl mv in traf, subs"
   },
@@ -607,7 +607,7 @@
     "company": "Wikizz",
     "location": "Gastoúni",
     "status": "pending",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2024-02-02T21:04:40Z",
     "notes": "Other secondary carnitine deficiency"
   },
@@ -616,7 +616,7 @@
     "company": "Mynte",
     "location": "Podbrdo",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-06-06T01:12:44Z",
     "notes": "Crushing injury of right wrist and hand, initial encounter"
   },
@@ -625,7 +625,7 @@
     "company": "Abata",
     "location": "Zhubei",
     "status": "interview",
-    "mode": "internship",
+    "mode": "contract",
     "createdAt": "2023-06-10T13:59:27Z",
     "notes": "Obst due to fb acc left in body fol inject or immuniz, init"
   },
@@ -634,7 +634,7 @@
     "company": "Wordtune",
     "location": "Okpoga",
     "status": "declined",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-12-17T16:27:55Z",
     "notes": "Blister (nonthermal) of scrotum and testes, subs encntr"
   },
@@ -643,7 +643,7 @@
     "company": "Demivee",
     "location": "Sufālat Samā’il",
     "status": "interview",
-    "mode": "internship",
+    "mode": "contract",
     "createdAt": "2023-11-25T19:27:50Z",
     "notes": "Nondisp suprcndl fx w intrcndl extn low end l femr, 7thP"
   },
@@ -652,7 +652,7 @@
     "company": "Fivespan",
     "location": "Puerto Esperanza",
     "status": "declined",
-    "mode": "internship",
+    "mode": "contract",
     "createdAt": "2023-10-20T04:06:10Z",
     "notes": "Furuncle of trunk"
   },
@@ -661,7 +661,7 @@
     "company": "Brainverse",
     "location": "Soko",
     "status": "pending",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-12-31T12:43:27Z",
     "notes": "Nonspecific reaction to test for tuberculosis"
   },
@@ -670,7 +670,7 @@
     "company": "Oyope",
     "location": "Krueng Luak",
     "status": "declined",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-05-30T03:01:51Z",
     "notes": "Nondisp fx of less trochanter of r femr, 7thJ"
   },
@@ -679,7 +679,7 @@
     "company": "Yombu",
     "location": "Oslo",
     "status": "pending",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-12-29T04:41:35Z",
     "notes": "Pecked by turkey, subsequent encounter"
   },
@@ -688,7 +688,7 @@
     "company": "Gigazoom",
     "location": "Dollard-Des Ormeaux",
     "status": "interview",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2024-02-02T07:51:27Z",
     "notes": "Hypertrophy of bone, left radius"
   },
@@ -697,7 +697,7 @@
     "company": "Kamba",
     "location": "Chaguaní",
     "status": "pending",
-    "mode": "internship",
+    "mode": "contract",
     "createdAt": "2023-05-04T12:42:45Z",
     "notes": "Serous retinal detachment, right eye"
   },
@@ -706,7 +706,7 @@
     "company": "Zoomcast",
     "location": "Bouabout",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-05-25T09:24:05Z",
     "notes": "Sexual masochism"
   },
@@ -715,7 +715,7 @@
     "company": "Feedfish",
     "location": "Hougang",
     "status": "declined",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-08-14T07:51:05Z",
     "notes": "Strain musc/tend peroneal grp at low leg lev, unsp leg, init"
   },
@@ -724,7 +724,7 @@
     "company": "DabZ",
     "location": "Chenqing",
     "status": "interview",
-    "mode": "internship",
+    "mode": "contract",
     "createdAt": "2023-07-16T01:53:34Z",
     "notes": "Nondisp fx of lesser trochanter of unsp femur, init"
   },
@@ -733,7 +733,7 @@
     "company": "Voonix",
     "location": "Hutou",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-06-18T02:02:52Z",
     "notes": "Posterior disloc of proximal end of tibia, r knee, sequela"
   },
@@ -742,7 +742,7 @@
     "company": "Jaxspan",
     "location": "Houston",
     "status": "pending",
-    "mode": "internship",
+    "mode": "contract",
     "createdAt": "2023-07-31T00:18:04Z",
     "notes": "Body mass index (BMI) 50-59.9 , adult"
   },
@@ -751,7 +751,7 @@
     "company": "Roodel",
     "location": "Kista",
     "status": "declined",
-    "mode": "internship",
+    "mode": "contract",
     "createdAt": "2024-01-07T20:28:01Z",
     "notes": "Oth specific arthropathies, NEC, unsp hand"
   },
@@ -760,7 +760,7 @@
     "company": "Twimm",
     "location": "Sanjiazi",
     "status": "declined",
-    "mode": "internship",
+    "mode": "contract",
     "createdAt": "2023-07-14T09:21:59Z",
     "notes": "Nondisp fx of epiphy (separation) (upper) of r femr, 7thR"
   },
@@ -769,7 +769,7 @@
     "company": "Realblab",
     "location": "Al Matūn",
     "status": "interview",
-    "mode": "internship",
+    "mode": "contract",
     "createdAt": "2023-03-06T08:56:17Z",
     "notes": "Underdosing of tetracyclines, sequela"
   },
@@ -778,7 +778,7 @@
     "company": "Jatri",
     "location": "Voi",
     "status": "pending",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-11-26T04:34:17Z",
     "notes": "Unspecified hydronephrosis"
   },
@@ -787,7 +787,7 @@
     "company": "Dabjam",
     "location": "Artimet",
     "status": "pending",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-05-09T14:14:26Z",
     "notes": "Anterior spinal artery compression syndromes, site unsp"
   },
@@ -796,7 +796,7 @@
     "company": "Myworks",
     "location": "Sembabule",
     "status": "interview",
-    "mode": "internship",
+    "mode": "contract",
     "createdAt": "2023-12-18T19:07:55Z",
     "notes": "Injury of other nerves at forearm level, left arm, sequela"
   },
@@ -805,7 +805,7 @@
     "company": "Dazzlesphere",
     "location": "Minle",
     "status": "pending",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-05-28T14:24:52Z",
     "notes": "Other spondylosis, cervicothoracic region"
   },
@@ -814,7 +814,7 @@
     "company": "Yacero",
     "location": "Espérance Trébuchet",
     "status": "interview",
-    "mode": "internship",
+    "mode": "contract",
     "createdAt": "2023-08-02T20:12:33Z",
     "notes": "Superficial foreign body of abdominal wall, subs encntr"
   },
@@ -823,7 +823,7 @@
     "company": "Podcat",
     "location": "Santa Teresita",
     "status": "pending",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2024-02-06T18:56:00Z",
     "notes": "Partial traumatic amputation of l forearm, level unsp, subs"
   },
@@ -832,7 +832,7 @@
     "company": "Gevee",
     "location": "Bugul’ma",
     "status": "declined",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-05-20T10:57:41Z",
     "notes": "Anaphyl reaction due to milk and dairy products, sequela"
   },
@@ -841,7 +841,7 @@
     "company": "Dabshots",
     "location": "Vila Maior",
     "status": "pending",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-11-25T05:55:25Z",
     "notes": "Disp fx of lateral condyle of unsp tibia, init for clos fx"
   },
@@ -850,7 +850,7 @@
     "company": "Myworks",
     "location": "Cherskiy",
     "status": "interview",
-    "mode": "full-time",
+    "mode": "permanent",
     "createdAt": "2023-06-24T08:17:20Z",
     "notes": "Pedl cyc driver injured in clsn w ped/anml in traf, init"
   },
@@ -859,7 +859,7 @@
     "company": "Blognation",
     "location": "Nouakchott",
     "status": "interview",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-10-15T08:22:41Z",
     "notes": "Unsp foreign body in oth prt resp tract causing asphyx, subs"
   },
@@ -868,7 +868,7 @@
     "company": "Mymm",
     "location": "Lingqiao",
     "status": "pending",
-    "mode": "internship",
+    "mode": "contract",
     "createdAt": "2023-10-14T13:41:27Z",
     "notes": "Car passenger injured in clsn w nonmtr vehicle nontraf, init"
   },
@@ -877,7 +877,7 @@
     "company": "Aibox",
     "location": "Ujung",
     "status": "pending",
-    "mode": "internship",
+    "mode": "contract",
     "createdAt": "2023-02-08T04:21:46Z",
     "notes": "Cardi-stim glycos/drug simlar act"
   },
@@ -886,7 +886,7 @@
     "company": "Skyvu",
     "location": "Ipuh",
     "status": "interview",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-05-07T10:00:18Z",
     "notes": "Other retinoschisis and retinal cysts, left eye"
   },
@@ -895,7 +895,7 @@
     "company": "Vidoo",
     "location": "Georgetown",
     "status": "declined",
-    "mode": "part-time",
+    "mode": "contract",
     "createdAt": "2023-05-22T20:52:07Z",
     "notes": "Secondary syphilitic hepatitis"
   }
